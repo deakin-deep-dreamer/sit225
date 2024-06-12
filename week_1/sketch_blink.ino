@@ -1,3 +1,9 @@
+/*
+    Ahsan Habib (habib@deakin.edu.au),
+    School of Information Technology,
+    Deakin University, Australia.
+*/
+
 int led_high = 0;  // variable to flag ON (1) or OFF (0)
 int slp_sec = 0;  // variable holds number of seconds to sleep
 
