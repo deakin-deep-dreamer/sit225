@@ -1,2 +1,2 @@
-#define SECRET_SSID "Telstra18AA72";
-#define SECRET_OPTIONAL_PASS "t7bemx7zz9rswzpj"
+#define SECRET_SSID "your-hotspot-ssid";
+#define SECRET_OPTIONAL_PASS "hotspot-password"
